@@ -1,0 +1,2 @@
+Markov Chain Package + Diagram Code: https://naysan.ca/2020/07/08/drawing-state-transition-diagrams-in-python/
+(the markovchain.py and node.py files)
