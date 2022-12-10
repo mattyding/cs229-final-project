@@ -189,4 +189,18 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# trash directory
 ignore/
+
+# minGPT gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.swp
+.env
+.pylintrc
+
+# minGPT
+mingpt/
+
+# cached BERT files
+cached_*

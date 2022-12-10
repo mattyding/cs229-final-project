@@ -1,2 +1,13 @@
+BASELINE:
 Markov Chain Package + Diagram Code: https://naysan.ca/2020/07/08/drawing-state-transition-diagrams-in-python/
 (the markovchain.py and node.py files)
+
+FINAL PROJECT:
+WiC Dataset: https://pilehvar.github.io/wic/
+BPE Encoder from MinGPT: https://github.com/karpathy/minGPT
+
+Guides I consulted for using BERT:
+- https://gmihaila.github.io/tutorial_notebooks/gpt2_finetune_classification/
+- https://gist.github.com/albahnsen/b02d2183c93067e3f248a428430c970e
+- https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+- http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
